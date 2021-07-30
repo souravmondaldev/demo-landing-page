@@ -6,7 +6,7 @@ export const Summary = () => {
         <>
 
             <div className="col-md-6 form-group mx-2 my-2">
-                <h6>New Member Added To SKY Family : <span class="badge bg-secondary rx-2">8</span></h6>
+                <h6>New Member Added To RVY Family : <span class="badge bg-secondary rx-2">8</span></h6>
             </div>
             <div className="col-md-6 form-group mx-2 my-2">
                 <h6>New Customer added : <span class="badge bg-secondary ">126</span></h6>
