@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
         <>
            <footer className = "text-center py-2" style={Footerstyle}>
-            <p className = "text-center" >Copyright &copy; RKY Supermarkets </p>
+            <p className = "text-center" >Copyright &copy; RVY Supermarkets </p>
            </footer>
         </>
     );
